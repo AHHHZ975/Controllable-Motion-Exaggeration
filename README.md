@@ -18,7 +18,7 @@ To close this gap, we focus on the Exaggeration principle of animation and inves
 We appreciate your interest in our research. If you find this study useful in your work, we kindly ask that you cite it using the following format.
 
 ```
-@inproceedings{zamani2027controllable,
+@inproceedings{zamani2026controllable,
   title={Controllable Exaggeration for Generative Motion Models via Training-Time Adaptation and Inference-Time Guidance},
   author={Zamani, Amirhossein and Rampini, Arianna and Roy, Bruno},
   booktitle={arXiv},
